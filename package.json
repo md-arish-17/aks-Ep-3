@@ -1,0 +1,25 @@
+{
+  "name": "node-package",
+  "version": "1.0.0",
+  "description": "my name is usman lala",
+  "type": "module",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/md-arish-17/aks-Ep-2.git)"
+  },
+  "keywords": [],
+  "author": "Mohammad Arish",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  }
+}
